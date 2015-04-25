@@ -1,0 +1,5 @@
+Getting and Cleaning Data Project
+CODE BOOK
+The Raw data was obtained from a study named “Human Activity Recognition Using Smartphones”. 30 persons were subjected to experiments while performing different activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). They were wearing a smartphone on the waist; the integrated accelerometer and gyroscope of the smartphone recorded measurements that were transformed to obtain the raw data.
+
+This purpose of this assignment is to clean the raw dataset in order to get a tidy dataset that can be used for further analysis. This tidy dataset
